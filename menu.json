@@ -1,0 +1,24 @@
+{
+    "1": {
+      "description": "Reporte de baches en carreteras 🚧",
+      "steps": [
+        { "prompt": "📍 Por favor, comparte tu ubicación (compartir ubicación desde WhatsApp).", "field": "ubicacion" },
+        { "prompt": "📸 Ahora, envía una foto del bache.", "field": "foto" }
+      ]
+    },
+    "2": {
+      "description": "Reporte de vecino regando agua 💦",
+      "steps": [
+        { "prompt": "📝 Por favor, describe la situación.", "field": "detalle" },
+        { "prompt": "📸 Envía una foto que respalde el reporte.", "field": "foto" }
+      ]
+    },
+    "3": {
+      "description": "Reporte de falta de alumbrado 💡",
+      "steps": [
+        { "prompt": "📍 Por favor, comparte la ubicación donde falta el alumbrado.", "field": "ubicacion" },
+        { "prompt": "📸 Envía una foto que muestre la situación.", "field": "foto" }
+      ]
+    }
+  }
+  
